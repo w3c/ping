@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fingerprinting Guidance for Web Specification Authors</title>
+    <meta charset='utf-8'>
+    <script src='https://www.w3.org/Tools/respec/respec-w3c-common' class='remove'></script>
+    <script class='remove'>
+      var respecConfig = {
+          // specification status (e.g. WD, LCWD, NOTE, etc.). If in doubt use ED.
+          specStatus:           "unofficial",
+          
+          // the specification's short name, as in http://www.w3.org/TR/short-name/
+          shortName:            "privacy-questionaire",
+
+          // if your specification has a subtitle that goes below the main
+          // formal title, define it here
+          // subtitle   :  "an excellent document",
+
+          // if you wish the publication date to be other than today, set this
+          // publishDate:  "2009-08-06",
+
+          // if the specification's copyright date is a range of years, specify
+          // the start date here:
+          // copyrightStart: "2005"
+
+          // if there is a previously published draft, uncomment this and set its YYYY-MM-DD date
+          // and its maturity status
+          // previousPublishDate:  "1977-03-15",
+          // previousMaturity:  "WD",
+
+          // if there a publicly available Editor's Draft, this is the link
+          //edDraftURI:           "http://dev.w3.org/2009/dap/ReSpec.js/documentation.html",
+
+          // if this is a LCWD, uncomment and set the end of its review period
+          // lcEnd: "2009-08-05",
+
+          // editors, add as many as you like
+          // only "name" is required
+          editors:  [
+              { name: "Greg Norcie", url: "http://norcie.com",
+                company: "W3C", companyURL: "http://w3.org/" },
+          ],
+          otherLinks: [{ //TODO: find out how to write this 
+              key: "Version history",
+              data: [{
+                value: "GitHub commit history",
+                href: "https://github.com/w3c/fingerprinting-guidance/commits/gh-pages" //GN: Not sure what this is
+           }]}],          
+
+          
+          // name of the WG
+          wg:           "Privacy Interest Group",
+          
+          // URI of the public WG page
+          wgURI:        "http://w3.org/Privacy/",
+          
+          // name (without the @w3c.org) of the public mailing to which comments are due
+          wgPublicList: "public-privacy",
+          
+          // URI of the patent status for this WG, for Rec-track documents
+          // !!!! IMPORTANT !!!!
+          // This is important for Rec-track documents, do not copy a patent URI from a random
+          // document unless you know what you're doing. If in doubt ask your friendly neighbourhood
+          // Team Contact.
+          wgPatentURI:  "",
+          
+          localBiblio: {//TODO: Can this be blank?
+            "EVERCOOKIE": {
+              "authors": ["Samy Kamkar"],
+              "href": "http://samy.pl/evercookie/",
+              "title": "evercookie - virtually irrevocable persistent cookies",
+              "date": "September 2010"
+            },
+            "NDSS-FINGERPRINTING": {
+              "authors": ["Ting-Fang Yen", "Yinglian Xie", "Fang Yu", "Roger Peng Yu", "Martin Abadi"],
+              "href": "http://research.microsoft.com/apps/pubs/default.aspx?id=156901",
+              "title": "Host Fingerprinting and Tracking on the Web: Privacy and Security Implications",
+              "date": "February 2012",
+              "publisher": "In Proceedings of the Network and Distributed System Security Symposium (NDSS)"
+            },
+            "RFC6973": {
+              "authors": [
+                  "A. Cooper",
+                  "H. Tschofenig",
+                  "B. Aboba",
+                  "J. Peterson",
+                  "J. Morris",
+                  "M. Hansen",
+                  "R. Smith"
+              ],
+              "href": "http://www.rfc-editor.org/rfc/rfc6973.txt",
+              "title": "Privacy Considerations for Internet Protocols",
+              "date": "July 2013",
+              "status": "RFC",
+              "publisher": "IETF"
+            },
+            "WEBSTORAGE-user-tracking": {
+              "href": "http://www.w3.org/TR/2013/REC-webstorage-20130730/#user-tracking",
+              "title": "Web Storage > Privacy > User tracking",
+              "date": "July 2013",
+              "authors": [
+                "Ian Hickson"
+              ],
+              "status": "Rec",
+              "publisher": "W3C"
+            },
+            "TRACKING-DNT": {
+              "href": "http://www.w3.org/TR/tracking-dnt/",
+              "title": "Tracking Preference Expression (DNT)",
+              "date": "April 2014",
+              "authors": [
+                "Roy Fielding", "David Singer"
+              ],
+              "status": "LCWD",
+              "publisher": "W3C"
+            },
+            "TRACKING-COMPLIANCE": {
+              "href": "http://www.w3.org/TR/tracking-compliance/",
+              "title": "Tracking Compliance and Scope",
+              "date": "July 2015",
+              "authors": [
+                "Nick Doty", "Justin Brookman", "Heather West", "Sean Harvey", "Erica Newland"
+              ],
+              "status": "LCWD",
+              "publisher": "W3C"
+            },
+            "TAG-UNSANCTIONED": {
+              "href": "https://w3ctag.github.io/unsanctioned-tracking/",
+              "title": "Unsanctioned Web Tracking",
+              "date": "17 July 2015",
+              "authors": ["Mark Nottingham"],
+              "publisher": "W3C Technical Architecture Group"
+            }
+          }
+      };
+      </script>
+      <style type="text/css" media="screen">
+        img.fingerprint {
+          float: left; 
+          margin-left: -25px;
+        }
+        ul.practicedesc {
+            margin-top: -2em;
+            padding-top: .5em;
+        }
+      </style>
+  </head>
+  <body>
+    <section id="abstract">
+      Many "privacy" questionaires focus on confidentiality, integrity, and availability. This document aims to provide a series    
+
+    </section>
+    <section id="sotd">
+      This is a draft of a document intended to be published as a Note by the <a href="http://w3.org/Privacy/">Privacy Interest Group</a> (<abbr title="Privacy Interest Group">PING</abbr>). PING will collaborate with the <a href="http://www.w3.org/2001/tag/">Technical Architecture Group</a> (<abbr title="Technical Architecture Group">TAG</abbr>) on this guidance. Constructive feedback of all kinds is welcomed; feel free to contact the editor directly or send comments to the <a href="mailto:public-privacy@w3.org">public-privacy</a> mailing list (<a href="https://lists.w3.org/Archives/Public/public-privacy/">public archives</a>).
+    </section>
+    <section>
+            
+<h2>Privacy Questions</h2>
+
+<ol>
+
+<li>Does this specification have a "Privacy Considerations" section? </li>
+	<ul>
+		<li>Interesting features added to the web platform generally have privacy impacts. Documenting the various concerns and potential abuses in a separate and distinct "Privacy Considerations" sections of a document is a good way to help implementer and web developers understand the risks that a feature presents, and to ensure that adequate mitigations are in place. If it seems like a feature does not have privacy impacts, then say so inline in the spec section for that feature: “There are no known privacy impacts of this feature.” </li>
+
+		<li>Saying so explicitly in the specification serves several purposes: </li>
+			<ol type="a">
+				<li>Shows that a spec author/editor has explicitly considered privacy when designing a feature. </li>
+				<li>Provides some sense of confidence that there are no such impacts.</li>
+				<li>Challenges security and minded individuals to think of and find such instances (as well as the mere potential for such impacts.)</li>
+				<li>Demonstrates the spec author/editor’s receptivity to feedback about such impacts.</li>
+			</ol>
+	
+
+	</ul>
+
+
+<li>Does this specification collect personally derived data? </li>
+	<ul>
+		<li>Explanation:  If the person involved in the transaction was not previously identifiable, Personally Derived Data includes a large swath of data which could be used on its own, or in combination with other information, to identify them. The exact definition of what’s considered “personal information” varies, but could certainly include things like a home address, an email address, birthdates, usernames, fingerprints, video recordings, audio recordings, geographic location or any other information derived from a person. If the person is already identifiable, personally derived data might become more significant when combined with other data (including general data such as the time of day where the transaction is happening, or personally derived data), enabling inferences to be drawn about the person involved. </li>
+		<li>Example: If the specification under consideration exposes private information to the web, it is important to consider ways to mitigate the obvious impacts. For instance, a feature which uses biometric data (fingerprints or retina scans) could refuse to expose the raw data to the web, instead using the raw data only to unlock some origin-specific and ephemeral secret and transmitting that secret instead. Also, user mediation could be required, in order to ensure that no data is exposed without a user’s explicit choice (and hopefully understanding).</li>
+	</ul>
+
+
+
+<li>Does this specification generate personally derived data, and if so how will that data be handled? </li>
+	<ul>
+		<li>Explanation: If a standard generates personally derived information, care must be taken to preserve the privacy of the data what has been generated, Methods which can be adopted to improve personally derived data include but are not limited to: de-identification, reporting data in aggregate, and/or encrypting the data. </li>
+		<li>Example: WebRTC generates audio and/or video data. Depending on where the camera or microphone is recording, the information could be intensely personal. When generating personally derived data, developers should stop to consider:
+			<ol type="a">
+				<li>Why the data is collected, </li>
+				<li>What is the primary purpose for the processing</li>
+				<li>Where is the data being transferred to</li>
+				<li>If/how will the data retained</li>
+				<li>If/how long it is being retained</li>
+			</ol>	
+		</li>
+	</ul>
+
+<li>Does this specification allow an origin direct access to a user’s location, and if so is that information minimized? </li>
+
+	<ul>
+		<li>Explanation: A user’s location is highly-desirable information for a variety of use cases. It is also, understandably, information which many users are reluctant to share, as it can be both highly identifying, and potentially unsafe. New features which make use of geolocation information, or which expose it to the web in new ways should carefully consider the ways in which the risks of unfettered access to a user’s location could be mitigated. </li>
+		<li>Example: Geolocation information can serve many use cases at a much less granular precision than the user agent can offer. For instance, a restaurant recommendation can be generated by asking for a user’s city-level location rather than a position accurate to the centimeter.</li>
+	</ul>
+
+
+<li>How should this specification work in the context of a user agent’s "incognito" mode? </li>
+
+	<ul>
+		<li>Explanation: Explanation: At the moment, sites are not told when the user is in "incognito" mode. Ideally, the feature would work in such a way that the website would not be able to determine that the user was in "incognito", as this reveals that the user might consider their interaction sensitive. Less ideally, the feature wouldn’t work, but the website still wouldn’t be able to distinguish "incognito" from simply being denied permission to use the feature (for instance). Unideally, the feature wouldn’t exist at all in "incognito", which means that the user wouldn’t be exposing data, but the website can probably tell that the user is in that state. (The question of whether websites could be aware of, and hence offer to respect, "incognito" mode is a matter of current discussion.)</li>
+		<li>Example: Disabling a feature which could reveal that the user is in "incognito" mode </li>
+	</ul>
+
+
+<li>Is it possible to spoof/fake the data being generated for privacy purposes? </li>
+
+	<ul>
+		<li>Explanation: Users may have a legitimate need to falsify the data eminating from their machine. While standards makers are not obligated to make spoofing intuitive, they should not actively try to thwart it.</li>
+		<li>Example: A user who is located in an oppressive regime may not wish to provide their exact geographic location, instead choosing to appear to be posting from a nearby country with less draconian laws. </li>
+	</ul>
+
+
+<li>Does the standard utilize data that is personally-derived, i.e. derived from the interaction of a single person, or their device or address? </li>
+
+	<ul>
+		<li>Explanation: If so, even if anonymized, could it be re-correlated? If the data could be re-correlated, does the data record contain elements that would explicitly enable such re-correlation such as unique identifiers?</li>
+		<li>Example: Social Security numbers, employee ID numbers, etc</li>
+	</ul>
+
+
+<li>Does the data record contain elements that would enable re-correlation when combined with other datasets through the property of intersection (commonly known as "fingerprinting")? </li>
+
+	<ul>
+		<li>Explanation: Sometimes seemingly innocuous pieces of information, in combination, can identify a user.</li>
+		<li>Example: One record contains name, DOB, and city of birth, a second contains DOB, city of birth, and medical illness treated.</li>
+	</ul>
+
+
+<li>Is the user likely to know if information is being collected? </li>
+
+	<ul>
+		<li>Explanation: Do I get feedback on the patterns that the information could reveal (at any instant, over time) so I can adjust behaviors? Information flows should not be invisible - users should be able to see what information is being collected and adjust behaviors accordingly. </li>
+		<li>Example: Does a camera icon appear on a site while the webcam is being utilized? Does a noise occur when a picture is taken? Does an LED light up when the camera is on? </li>
+	</ul>
+
+
+<li>Can the user easily, preferably through an element of the GUI, revoke consent granted to a particular feature? </li>
+
+	<ul>
+		<li>Explanation: Consent should not be a one time affair, but an ongoing process.</li>
+		<li>Example: If a user must clear all cookies and cache to turn off consent granted to their webcam, this is a poor consent model.</li>
+	</ul>
+
+
+<li>Once consent has been given, is there a mechanism whereby it can be automatically revoked after a reasonable, or user configurable, period? </li>
+
+	<ul>
+		<li>Explanation: Consent should not be granted in perpetuity because a user might forget after a while that they have given it, or it might have been given inadvertently by them or someone else. </li>
+		<li>Example: An authentication cookie for a social network log-in can have an expiry of few hours or days so that a forgetful user will be automatically logged-out. Similarly a user that gives there consent for tracking using the DNT API can automatically stop being tracked after a reasonable period.</li>
+	</ul>
+
+
+<li>Does this standard utilize strong end to end encrption?</li>
+
+	<ul>
+		<li>Explanation: As per RFC 7258, pervasive monitoring is an attack. The TAG has supported the use of end to end encryption to protect against pervasive monitoring.</li>
+		<li>Example: A new standard that wishes to livestream video should do so utilizing end to end encryption so that eavesdroppers may not intercept the stream. </li>
+	</ul>
+<li> Does this standard use the <a href="https://github.com/w3c/respec/blob/7e49a71f1d0f812a325a13e4c4911ba9eb4cf1d9/js/w3c/linter.js">Respec Linter</a> to check for common privacy issues?
+	<ul>
+		<li>linter.js will check that the URLs in your `respecConfig` are using TLS, and throw a warning if they are not.</li>
+		<li>linter.js will check that your specification has a privacy and considerations section, and link back to this document if it does not.
+	<ul>
+
+
+</ol>
+
+
+<h2>Acknowledgements</h2>
+      <p>
+        Many thanks to Nick Doty for Github advice; to the Privacy Interest Group and the Technical Architecture Group for their continued feedback.
+      </p>
+    </section>
+  </body>
+</html>
+
