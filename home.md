@@ -19,3 +19,5 @@ password: @@
 * Username: &lt;your name&gt;
 * Port: 6667 or 6665
 * Channel: #privacy
+
+[Past meetings](meetings.html)
