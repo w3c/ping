@@ -20,4 +20,4 @@ password: @@
 * Port: 6667 or 6665
 * Channel: #privacy
 
-[Past meetings](meetings.html)
+[Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
