@@ -1,0 +1,54 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+.grouplogo {
+  background: #0D5E99;
+  height: 110px;
+}
+.grouplogo object {
+  width: 100px;
+  height: 100px;
+  margin-top: 3px;
+  margin-left: 2.3em;
+}
+
+
+.infobar {
+  right: 4em;
+  margin: 1em;
+  width: 30%;
+  float: right;
+  background-color: blue;
+  background: #DBE7F0;
+  border: 1px solid #C6D4E0;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  padding: 0.1em 0.1em 0.1em 0.5em;
+  list-item-style: bullet;
+  display:none;
+}
+
+.infobar ul {
+  list-style-type:circle;
+}
+
+
+.secondary_nav {
+  float: right;
+  margin-right: 1.5em;
+}
+
+#activity-title {
+	font-size: 300% !important;
+	background-color: transparent !important;
+	display: block !important;
+	width: 70% !important;
+	text-align: left !important;
+	float: left !important;
+	text-transform: none !important;
+	height: 100px !important;
+	border-bottom: none !important;
+	padding-left: 30px !important;
+}
+
+#w3c_nav {
+	height: 107px;
+}
