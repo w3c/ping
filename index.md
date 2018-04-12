@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
-# Privacy Interest Group (PING)
+
+<h1 class="title">Privacy Interest Group (PING)</h1>
+
 * Chairs: Christine Runnegar and Tara Whalen
 * Team Contact: [Sam Weiler](mailto:weiler@w3.org)
 
