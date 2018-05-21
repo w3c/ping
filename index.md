@@ -33,3 +33,7 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 * Privacy reviews
 * Fingerprinting Guidance
 * ...
+
+<br>
+
+This page is maintained in Github at [https://github.com/w3c/ping/blob/master/index.md](https://github.com/w3c/ping/blob/master/index.md)
