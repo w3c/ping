@@ -1,6 +1,6 @@
 # Summary of PING call - 10 May 2018
 
-Next call - Thursday 8 June 2018 at UTC 16
+Next call - Thursday 7 June 2018 at UTC 16
 
 1. HTML 5.3
 
