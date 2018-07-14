@@ -10,12 +10,9 @@ layout: home
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
 ## Meeting Information
-* Next call: 12 July 2018, 9am PT, 12pm ET. 
+* Next call: 9 AUgust 2018, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* [WebEx meeting](https://mit.webex.com/mit/j.php?MTID=mb8817bb98018eef652ad17b6b4b1d788)
-* [+1 617-324-0000](tel:617-324-0000)
-* meeting number: 315 917 740
-* password: privacy
+* WebEx coordinates will be changing; check back
 * [WebEx FAQ](https://www.w3.org/2006/tools/wiki/WebExFAQ)
 
 <br> 
