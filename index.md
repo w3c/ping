@@ -11,7 +11,6 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 
 ## Meeting Information
 * Next meeting: 26 October 2018 at [TPAC 2018](https://www.w3.org/2018/10/TPAC).  [Agenda](https://docs.google.com/document/d/1aYGCfXkY5pOtyOFR8bWvrobYNSDhCxQ43SdfJ5OQFAs/edit).  Note: this meeting will use different WebEx coordinates than usual. See below.
-[//]: # * Next call: 4 October 2018, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * [WebEx coordinates](https://www.w3.org/2018/08/ping-webex.html) require a W3C login and that you be be a member of the IG or of W3C. If you have trouble accessing the coordinates, join the IRC channel, identify yourself, and ask that someone send them to you in a private IRC message.  Alternatively, send an email to the [team contact](mailto:weiler@w3.org).
 * [WebEx FAQ](https://www.w3.org/2006/tools/wiki/WebExFAQ)
