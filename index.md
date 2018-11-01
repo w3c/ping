@@ -29,11 +29,14 @@ Use the links in the sidebar.  If you're new to W3C, first [create a W3C account
           
 ## [Minutes of Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
 
+[Minutes](https://www.w3.org/Privacy/IG/meetings.html)
 
 ## Ongoing work
+
+* [Issues](https://github.com/w3cping/administrivia/issues) are tracked in the [https://github.com/w3cping/administrivia](https://github.com/w3cping/administrivia) Github repository
 * Privacy reviews
-* Fingerprinting Guidance
-* ...
+* [Fingerprinting Guidance](https://w3c.github.io/fingerprinting-guidance/): maintained in the [https://github.com/w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) repository
+* [Security and privacy questionaire](https://w3ctag.github.io/security-questionnaire/): active work is in the [https://github.com/w3cping/security-questionnaire](https://github.com/w3cping/security-questionnaire) repository (this is PING's own repository, from which we issue pull requests to the TAG's repository)
 
 <br>
 
