@@ -10,7 +10,7 @@ layout: home
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
 ## Meeting Information
-* Next regular call: 7 February 2019, 9am PT, 12pm ET. 
+* Next regular call: 28 February 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * [WebEx coordinates](https://www.w3.org/2018/08/ping-webex.html) require a W3C login and that you be be a member of the IG or of W3C. If you have trouble accessing the coordinates, join the IRC channel, identify yourself, and ask that someone send them to you in a private IRC message.  Alternatively, send an email to the [team contact](mailto:weiler@w3.org).
 * [WebEx FAQ](https://www.w3.org/2006/tools/wiki/WebExFAQ)
