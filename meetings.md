@@ -1,5 +1,3 @@
-\--- layout: home ---
-
 ### Privacy Interest Group Meetings
 
 #### Past meetings
