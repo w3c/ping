@@ -6,7 +6,7 @@ layout: home
 
 #### Past meetings
 
-*   [2019-03-21](https://www.w3.org/2019/03/21-privacy-minutes.html)
+*   [2019-03-21](https://www.w3.org/2019/03/21-privacy-minutes.html): Inaccessability of CAPTCHA
 *   [2019-02-28](https://www.w3.org/2019/02/28-privacy-minutes.html): Payment Request API
 *   [2019-02-07](https://www.w3.org/2019/02/07-privacy-minutes.html): Client Hints [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0056.html)
 *   [2019-01-15](https://www.w3.org/2019/01/15-privacy-minutes.html): special meeting on private browsing mode | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0020.html)
