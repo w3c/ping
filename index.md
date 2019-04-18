@@ -10,10 +10,21 @@ layout: home
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
 ## Meeting Information
-* Next regular call: 18 April 2019, 9am PT, 12pm ET. 
+* Next regular call: 16 May 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* We are using [Zoom](https://isoc.zoom.us/j/114110781) for the meeting.
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
+* We are using [Zoom](https://isoc.zoom.us/j/969692804) for the meeting.
+
+One tap mobile
++16699006833,,969692804# US (San Jose)
++16465588656,,969692804# US (New York)
+
+Dial by your location
+        +1 669 900 6833 US (San Jose)
+        +1 646 558 8656 US (New York)
+Meeting ID: 969 692 804
+Find your local number: https://zoom.us/u/acFNApXL9t
+
 <br> 
 
 ## IRC
