@@ -12,12 +12,12 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 ## Meeting Information
 * Next regular call: 18 April 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* [WebEx coordinates](https://www.w3.org/2018/08/ping-webex.html) require a W3C login and that you be be a member of the IG or of W3C. If you have trouble accessing the coordinates, join the IRC channel, identify yourself, and ask that someone send them to you in a private IRC message.  Alternatively, send an email to the [team contact](mailto:weiler@w3.org).
-* [WebEx FAQ](https://www.w3.org/2006/tools/wiki/WebExFAQ)
-
+* We are using [Zoom](https://isoc.zoom.us/j/114110781) for the meeting.
+* We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 <br> 
 
-* Please also join us on IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
+## IRC
+PING may occasionally make use of IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
 * Server: irc.w3.org
 * Username: &lt;your name&gt;
 * Port: 6667 or 6665
