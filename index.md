@@ -13,19 +13,18 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 * Next regular call: 16 May 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
-* We are using [Zoom](https://isoc.zoom.us/j/969692804) for the meeting.
+* We are using [Zoom](https://isoc.zoom.us/j/969692804) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
-One tap mobile
-+16699006833,,969692804# US (San Jose)
-+16465588656,,969692804# US (New York)
-
-Dial by your location
-        +1 669 900 6833 US (San Jose)
-        +1 646 558 8656 US (New York)
-Meeting ID: 969 692 804
+One tap mobile<br> 
++16699006833,,969692804# US (San Jose)<br> 
++16465588656,,969692804# US (New York)<br> 
+<br> 
+PSTN numbers:<br> 
+        +1 669 900 6833 US (San Jose)<br> 
+        +1 646 558 8656 US (New York)<br> 
+Meeting ID: 969 692 804<br> 
 Find your local number: https://zoom.us/u/acFNApXL9t
 
-<br> 
 
 ## IRC
 PING may occasionally make use of IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
