@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*   [2019-05-16](summaries/PING-minutes-20190516.md): mandatory privacy mitigations; font enumeration
 *   [2019-04-18](summaries/PING-minutes-20190418): "big ideas"; first meeting with new tools
 *   [2019-03-21](https://www.w3.org/2019/03/21-privacy-minutes.html): Inaccessability of CAPTCHA
 *   [2019-02-28](https://www.w3.org/2019/02/28-privacy-minutes.html): Payment Request API
