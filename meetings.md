@@ -6,12 +6,13 @@ layout: home
 
 #### Past meetings
 
-*   [2019-06-06](summaries/PING-minutes-20190606): Data Catalog Vocabulary; blog post
+*   [2019-06-20](summaries/PING-minutes-20190620)
+*   [2019-06-06](summaries/PING-minutes-20190606): Data Catalog Vocabulary; blog post | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019AprJun/0076.html)
 *   [2019-05-16](summaries/PING-minutes-20190516): mandatory privacy mitigations; font enumeration
 *   [2019-04-18](summaries/PING-minutes-20190418): "big ideas"; first meeting with new tools
 *   [2019-03-21](https://www.w3.org/2019/03/21-privacy-minutes.html): Inaccessability of CAPTCHA
 *   [2019-02-28](https://www.w3.org/2019/02/28-privacy-minutes.html): Payment Request API
-*   [2019-02-07](https://www.w3.org/2019/02/07-privacy-minutes.html): Client Hints [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0056.html)
+*   [2019-02-07](https://www.w3.org/2019/02/07-privacy-minutes.html): Client Hints | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0056.html)
 *   [2019-01-15](https://www.w3.org/2019/01/15-privacy-minutes.html): special meeting on private browsing mode | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0020.html)
 *   [2019-01-10](https://www.w3.org/2019/01/10-privacy-minutes.html): review of High Resolution Time 2 and Navigation Timing 2 | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019JanMar/0016.html)
 *   [2018-12-20](https://www.w3.org/2018/12/20-privacy-minutes.html)
