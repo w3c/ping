@@ -10,10 +10,10 @@ layout: home
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
 ## Meeting Information
-* Next regular call: 20 June 2019, 9am PT, 12pm ET. 
+* Next regular call: 27 June 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* [Agenda](https://lists.w3.org/Archives/Public/public-privacy/2019AprJun/0078.html)
-* Subsequent calls, tentatively: July 11 and August 8.
+* Agenda: PING call structure
+* Subsequent calls, tentatively: June 27, July 11, and August 8.
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using [Zoom](https://isoc.zoom.us/j/653781437) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
