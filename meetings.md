@@ -6,7 +6,8 @@ layout: home
 
 #### Past meetings
 
-*   [2019-06-20](summaries/PING-minutes-20190620)
+*   [2019-06-27](summaries/PING-minutes-20190627): PING methods of working and effectiveness
+*   [2019-06-20](summaries/PING-minutes-20190620): Web of Things
 *   [2019-06-06](summaries/PING-minutes-20190606): Data Catalog Vocabulary; blog post | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019AprJun/0076.html)
 *   [2019-05-16](summaries/PING-minutes-20190516): mandatory privacy mitigations; font enumeration
 *   [2019-04-18](summaries/PING-minutes-20190418): "big ideas"; first meeting with new tools
