@@ -4,15 +4,14 @@ layout: home
 
 <h1 class="title">Privacy Interest Group (PING)</h1>
 
-* Chairs: Christine Runnegar and Tara Whalen
+* Chairs: Christine Runnegar, Tara Whalen and Peter Snyder
 * Team Contact: [Sam Weiler](mailto:weiler@w3.org)
 
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
 ## Meeting Information
-* Next regular call: 11 July 2019, 9am PT, 12pm ET. 
+* Next regular call: 1 August 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* Subsequent calls, tentatively: August 8.
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using [Zoom](https://isoc.zoom.us/j/653781437) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
