@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*   [2019-07-11](summaries/PING-minutes-20190711): PING methods of working and effectiveness (continued)
 *   [2019-06-27](summaries/PING-minutes-20190627): PING methods of working and effectiveness
 *   [2019-06-20](summaries/PING-minutes-20190620): Web of Things
 *   [2019-06-06](summaries/PING-minutes-20190606): Data Catalog Vocabulary; blog post | [summary](https://lists.w3.org/Archives/Public/public-privacy/2019AprJun/0076.html)
