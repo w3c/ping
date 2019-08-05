@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2019-08-01](summaries/PING-minutes-20190801): PING process document, outstanding issues and GetUserMedia
 *   [2019-07-11](summaries/PING-minutes-20190711): PING methods of working and effectiveness (continued)
 *   [2019-06-27](summaries/PING-minutes-20190627): PING methods of working and effectiveness
 *   [2019-06-20](summaries/PING-minutes-20190620): Web of Things
