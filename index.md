@@ -4,8 +4,8 @@ layout: home
 
 <h1 class="title">Privacy Interest Group (PING)</h1>
 
-* Chairs: Christine Runnegar, Tara Whalen and Peter Snyder
-* Team Contact: [Sam Weiler](mailto:weiler@w3.org)
+* Chairs: Christine Runnegar, Tara Whalen, and Peter Snyder
+* Team Contact: [Samuel Weiler](mailto:weiler@w3.org)
 
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
@@ -13,11 +13,11 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 * Next regular call: 15 August 2019, 9am PT, 12pm ET. 
 [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
-* We are using [Zoom](https://isoc.zoom.us/j/653781437) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
+* We are using [Zoom](https://isoc.zoom.us/j/120054739) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
 One tap mobile<br> 
-+16699006833,,653781437# US (San Jose)<br> 
-+16465588656,,653781437# US (New York)<br>
++16699006833,,120054739# US (San Jose)<br> 
++16465588656,,120054739# US (New York)<br>
 <br> 
 PSTN numbers:<br> 
         +1 669 900 6833 US (San Jose)<br> 
