@@ -9,7 +9,7 @@
    * Jeffrey Yasskin (Google)
    * Christine Runnegar (PING co-chair)
    * Tom Lowenthal (Brave)
-   * 
+   * on irc: npdoty, (remote), dezell, taraw, Anssi_Kostiainen, Ian, blassey, yoav, jmann, dbaron, manu, Ralph, iclelland, Mek, wseltzer, toml, kleber, rowan_m, scheib, jfishback, christine, mitja
    * [your name here] and we'll also capture the present+ from irc, #privthreatmodel  
 
 ## Agenda
