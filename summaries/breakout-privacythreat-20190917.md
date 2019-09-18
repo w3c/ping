@@ -4,7 +4,7 @@
 
 * **Location**: We're in [Navis-A, Floor 1](https://www.w3.org/2019/09/TPAC/schedule.html#map), starting at 11:00.
 * **Remote participation**: https://meet.google.com/aoe-vzqz-stt; dial in https://meet.google.com/tel/aoe-vzqz-stt
-* **IRC**: #privthreatmodel irc.w3.org
+* **IRC**: [#privthreatmodel irc.w3.org minutes](https://www.w3.org/2019/09/18-privthreatmodel-minutes.html)
 * Attendees:
    * Jeffrey Yasskin (Google)
    * Christine Runnegar (PING co-chair)
