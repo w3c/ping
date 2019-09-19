@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*   [2019-09-19](summaries/PING-minutes-20190919): TPAC Day 2
 *   [2019-09-16](summaries/PING-minutes-20190916): TPAC Day 1
 *   [2019-08-15](summaries/PING-summary-20190815): PING charter, DOM standard and process document
 *   [2019-08-01](summaries/PING-minutes-20190801): PING process document, outstanding issues and GetUserMedia
