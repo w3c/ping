@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*   [2019-10-03](summaries/PING-minutes-20191003): Font FP; next FP surface reduction target(s); WoT response
 *   [2019-09-19](summaries/PING-minutes-20190919): TPAC Day 2
 *   [2019-09-16](summaries/PING-minutes-20190916): TPAC Day 1
 *   [2019-08-15](summaries/PING-summary-20190815): PING charter, DOM standard and process document
