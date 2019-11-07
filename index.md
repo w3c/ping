@@ -12,7 +12,7 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 ## Meeting Information
 * 1st and 3rd Thursdays (subject to change) at 9am PT, 12pm ET. 
 * For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3cping.slack.com/)
-[Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
+* [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using [Zoom](https://isoc.zoom.us/j/120054739) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
