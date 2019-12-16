@@ -7,6 +7,8 @@ layout: home
 #### Past meetings
 
 
+*   [2019-12-05](summaries/PING-minutes-20191205): Privacy reviews, etc.
+*   [2019-11-07](summaries/PING-minutes-20191107): TTML, Sensors
 *   [2019-11-07](summaries/PING-minutes-20191107): TTML, Sensors
 *   [2019-10-24](summaries/PING-minutes-20191024): Font FP; Web Payments Security IG (WPSIG); Publication Manifest; Audio Books; Sensors
 *   [2019-10-03](summaries/PING-minutes-20191003): Font FP; next FP surface reduction target(s); WoT response
