@@ -1,7 +1,7 @@
 # Privacy Interest Group meeting - 19 December 2019
 
 
-## Attendees (sign yourself in)
+## Attendees
 
 * Tara Whalen (co-chair)
 * Peter Snyder (co-chair)
@@ -75,7 +75,6 @@ scribe: lassey (for the first half), npdoty (second half)
 **pes**: This is a bizarre mismatch, but director overruled my complaint about that
 
 **wseltzer**: Note that in the [proposed WOT re-charter](https://cdn.statically.io/gh/w3c/wot/master/charters/wot-wg-charter-draft-2019.html?env=dev) the WOT group has committed to putting privacy considerations in identifier management, which seems like a good place for us to engage. Perhaps we could put that in a comment. I'm trying to figure out what you mean by this is normative but not normative.
-
 
 **pes**: WOT describes this as a document that surveys what exists today, and yet its on the standards track as a normative doc.
 
@@ -168,7 +167,7 @@ pes: in the past, sometimes WGs have asked what's the solution to a problem that
 
 pes: thanks wendell
 
-### ongoing reviews/issues
+### Ongoing reviews/issues
 
 pes: I've just been following [TAG reviews](https://github.com/w3ctag/design-reviews/issues/) or other suggestions, and I've just been doing some of those individually and then bring them to PING. roughly 1-2 per week, but I'm not doing those in PING's name. if that's a problem, let me know.
 
@@ -199,6 +198,7 @@ pes: font enumeration and fingerprinting, good call with CSS about taking it on 
 
 pes: payment handler api. not clear what kind of storage privilege that embedded party should have. agreement sounds like installing a payment handler will cause a user prompt about whether they should be accessible from other sites. outcome sounds very positive.
 https://github.com/w3cping/tracking-issues/issues
+
 npd: should we use the [privacy tracker repository](https://github.com/w3cping/tracking-issues/issues) to collect issues we raise? I know there are past issues I've not included there. will try to catch up on those.
 
 kleber: I thought I heard a different result from the payment handler discussion.
@@ -208,15 +208,15 @@ pes: how payment handler handles storage apis, and, separate, how a payment hand
 npdoty: Web Share is a tech for sharing a url/page with another application, or with an installed Web App
 ... Web share API - https://www.w3.org/TR/2019/WD-web-share-20191217/
 
-### next call
+### Next call
 
-January 16 for next call?
+January 16 for next call? (i.e. skip the 2 January call?)
 
 (regrets from npdoty for January 16, but can send updates on email)
 
 happy new year!
 
-### privacy community group
+### Privacy community group (update)
 
 wseltzer: had hoped to have an update to share by now, but still in legal review. hope to have feedback early in the new year.
 
