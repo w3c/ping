@@ -7,7 +7,7 @@ layout: home
 #### Past meetings
 
 
-*   [2020-01-16](summaries-PING-minutes-20200116): Priacy threat model, Screen Capture, Resource Timing 2, font fingerpting, Device Orientation API
+*   [2020-01-16](summaries/PING-minutes-20200116): Priacy threat model, Screen Capture, Resource Timing 2, font fingerpting, Device Orientation API
 *   [2019-12-19](summaries/PING-minutes-20191219): Privacy reviews, Time Resolution, Screen Capture, etc.
 *   [2019-12-05](summaries/PING-minutes-20191205): Privacy reviews, etc.
 *   [2019-11-07](summaries/PING-minutes-20191107): TTML, Sensors
