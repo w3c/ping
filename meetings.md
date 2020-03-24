@@ -7,6 +7,7 @@ layout: home
 #### Past meetings
 
 
+*  [2020-03-19](summaries/PING-minutes-20200319): Privacy reviews, etc
 *  [2020-03-05](summaries/PING-minutes-20200305): Privacy reviews, fingerprinting, PING process
 *  [2020-02-20](summaries/PING-minutes-20200220): Privacy reviews, font fingerprinting
 *  [2020-02-06](summaries/PING-minutes-20200206): Privacy reviews, privacy threat model, font enumeration, etc. 
