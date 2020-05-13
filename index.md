@@ -4,7 +4,7 @@ layout: home
 
 <h1 class="title">Privacy Interest Group (PING)</h1>
 
-* Chairs: Christine Runnegar, Tara Whalen, and Peter Snyder
+* Chairs: Christine Runnegar and Peter Snyder
 * Team Contact: [Samuel Weiler](mailto:weiler@w3.org)
 
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
