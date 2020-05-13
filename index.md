@@ -9,7 +9,13 @@ layout: home
 
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
+
+## Joining PING
+
+Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](http://www.w3.org/2004/08/invexp).  Please also join our [Slack](https://w3cping.slack.com/).
+
 ## Meeting Information
+
 * 1st and 3rd Thursdays (subject to change) at 9am PT, 12pm ET. 
 * For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3cping.slack.com/)
 * [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
@@ -33,26 +39,22 @@ Join by SIP<br>
 Join by Skype for Business<br> 
 https://mit.zoom.us/skype/823321737<br> 
 
+## [Minutes of Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
+
+[Minutes](https://www.w3.org/Privacy/IG/meetings.html)
 
 ## IRC
-PING may occasionally make use of IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
+PING occasionally uses IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
 * Server: irc.w3.org
 * Username: &lt;your name&gt;
 * Port: 6667 or 6665
 * Channel: #privacy
 
-## Joining the group
-
-Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](http://www.w3.org/2004/08/invexp)
-          
-## [Minutes of Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
-
-[Minutes](https://www.w3.org/Privacy/IG/meetings.html)
 
 ## Ongoing work
 
-* [Issues](https://github.com/w3cping/administrivia/issues) are tracked in the [https://github.com/w3cping/administrivia](https://github.com/w3cping/administrivia) Github repository
-* Privacy reviews
+* Privacy reviews are [tracked in Github](https://github.com/w3cping/tracking-issues/issues) and visible through [this dashboard](https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues)
+* [PING administrative issues](https://github.com/w3cping/administrivia/issues) are tracked in the [https://github.com/w3cping/administrivia](https://github.com/w3cping/administrivia) Github repository
 * [Fingerprinting Guidance](https://w3c.github.io/fingerprinting-guidance/): maintained in the [https://github.com/w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) repository
 * [Security and privacy questionaire](https://w3ctag.github.io/security-questionnaire/): active work is in the [https://github.com/w3cping/security-questionnaire](https://github.com/w3cping/security-questionnaire) repository (this is PING's own repository, from which we issue pull requests to the TAG's repository)
 
