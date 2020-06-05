@@ -11,7 +11,6 @@ layout: home
 *  [2020-05-07](summaries/PING-minutes-20200507): Privacy tracking issue triage - Web Audio and Media Capture and Streams
 *  [2020-04-16](summaries/PING-minutes-20200416): Privacy reviews, font fingerprinting, triage of tracking issues, etc
 *  [2020-03-19](summaries/PING-minutes-20200319): Privacy reviews, etc
-*  [2020-03-19](summaries/PING-minutes-20200319): Privacy reviews, etc
 *  [2020-03-05](summaries/PING-minutes-20200305): Privacy reviews, fingerprinting, PING process
 *  [2020-02-20](summaries/PING-minutes-20200220): Privacy reviews, font fingerprinting
 *  [2020-02-06](summaries/PING-minutes-20200206): Privacy reviews, privacy threat model, font enumeration, etc. 
