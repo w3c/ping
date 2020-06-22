@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-06-18](summaries/PING-minutes-20200618): WebRTC privacy review request, privacy threat model, questionnaire
 *  [2020-06-04](summaries/PING-minutes-20200604): Ad-hoc meeting on privacy threat model
 *  [2020-05-21](summaries/PING-minutes-20200521): Privacy tracking issue triage (continued) - Web Audio and Media Capture and Streams
 *  [2020-05-07](summaries/PING-minutes-20200507): Privacy tracking issue triage - Web Audio and Media Capture and Streams
