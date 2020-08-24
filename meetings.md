@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-08-20](summaries/PING-minutes-20200820): three privacy reviews
 *  [2020-08-06](summaries/PING-minutes-20200806): privacy reviews and privacy threat model
 *  [2020-07-16](summaries/PING-minutes-20200716): geolocation API privacy review and privacy reviews more generally
 *  [2020-07-02](summaries/PING-minutes-20200702): WebRTC and geolocation API privacy review requests, ECMA 402
