@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-09-24](summaries/PING-minutes-20200924): privacy reviews of Web Share API, CSS Color Module 4, CSS Cascading and Inheritance Level 3
 *  [2020-08-20](summaries/PING-minutes-20200820): three privacy reviews
 *  [2020-08-06](summaries/PING-minutes-20200806): privacy reviews and privacy threat model
 *  [2020-07-16](summaries/PING-minutes-20200716): geolocation API privacy review and privacy reviews more generally
