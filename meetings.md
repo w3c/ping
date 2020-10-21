@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-10-15](summaries/PING-minutes-20201015): privacy reviews of WebRTC Priority Control API, CSS Text Module Level 3
 *  [2020-09-24](summaries/PING-minutes-20200924): privacy reviews of Web Share API, CSS Color Module 4, CSS Cascading and Inheritance Level 3
 *  [2020-08-20](summaries/PING-minutes-20200820): three privacy reviews
 *  [2020-08-06](summaries/PING-minutes-20200806): privacy reviews and privacy threat model
