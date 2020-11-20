@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-11-19](summaries/PING-minutes-20201119): privacy reviews
 *  [2020-11-05](summaries/PING-minutes-20201105): privacy reviews
 *  [2020-10-23](summaries/PING-minutes-20201023): special breakout for TPAC on conducting a privacy review
 *  [2020-10-15](summaries/PING-minutes-20201015): privacy reviews of WebRTC Priority Control API, CSS Text Module Level 3
