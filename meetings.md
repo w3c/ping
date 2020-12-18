@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2020-12-17](summaries/PING-minutes-20201217): privacy reviews of DOM and audio output devices API
 *  [2020-11-19](summaries/PING-minutes-20201119): privacy reviews
 *  [2020-11-05](summaries/PING-minutes-20201105): privacy reviews
 *  [2020-10-23](summaries/PING-minutes-20201023): special breakout for TPAC on conducting a privacy review
