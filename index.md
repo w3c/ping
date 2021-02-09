@@ -60,4 +60,4 @@ PING occasionally uses IRC on the [#privacy](http://irc.w3.org/?channels=privacy
 
 <br>
 
-This page is maintained in Github at [https://github.com/w3c/ping/blob/master/index.md](https://github.com/w3c/ping/blob/master/index.md)
+This page is maintained in Github at [https://github.com/w3c/ping/blob/main/index.md](https://github.com/w3c/ping/blob/main/index.md)
