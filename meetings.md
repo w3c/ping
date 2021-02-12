@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2021-02-04](summaries/PING-minutes-20210204): privacy reviews of Decentralized Identifier Specification v1.0 and Custom Highlight API Module Level 1
 *  [2021-01-21](summaries/PING-minutes-20210121): privacy reviews of Payment Request API, Web Neural Network API, CSS Color Adjustment Module Level 1
 *  [2020-12-17](summaries/PING-minutes-20201217): privacy reviews of DOM and audio output devices API
 *  [2020-11-19](summaries/PING-minutes-20201119): privacy reviews
