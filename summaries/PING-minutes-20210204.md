@@ -64,7 +64,7 @@ Matthew: The main enhancement is to highlight multiple locations of the page, wh
 Matthew: I didn't see any obvious privacy issues related to this draft.  The draft itself discloses that the authors aren't aware of.  
 
 Matthew: It's pretty straightforward, not obvious links.  
-<no items>
+[no items]
 
 Peter: Thanks, seems pretty cut and dry.  
 
