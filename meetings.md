@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2021-03-03](summaries/PING-minutes-20210603): privacy review of CSS multi-column Layout Module Level 1 
 *  [2021-05-06](summaries/PING-minutes-20210506): privacy review of WebCodecs
 *  [2021-03-18](summaries/PING-minutes-20210318): privacy reviews of FLoC, ARIA in HTML and media capabilities
 *  [2021-02-04](summaries/PING-minutes-20210204): privacy reviews of Decentralized Identifier Specification v1.0 and Custom Highlight API Module Level 1
