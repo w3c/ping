@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2021-07-01](summaries/PING-minutes-20210701): privacy review of resource timing
 *  [2021-03-03](summaries/PING-minutes-20210603): privacy review of CSS multi-column Layout Module Level 1 
 *  [2021-05-06](summaries/PING-minutes-20210506): privacy review of WebCodecs
 *  [2021-03-18](summaries/PING-minutes-20210318): privacy reviews of FLoC, ARIA in HTML and media capabilities
