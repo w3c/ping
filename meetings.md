@@ -6,7 +6,7 @@ layout: home
 
 #### Past meetings
 
-*  [2021-09-16](summaries/PING-minutes-29210916): privacy reviews of EPUB 3.3 and CSS Masking Module; triage of tracking issues
+*  [2021-09-16](summaries/PING-minutes-20210916): privacy reviews of EPUB 3.3 and CSS Masking Module; triage of tracking issues
 *  [2021-09-02](summaries/PING-minutes-20210902): privacy reviews of DOM Review Draft and CSS Scrollbars Level 1; triage of tracking-issues
 *  [2021-08-05](summaries/PING-minutes-20210805): privacy review of HTML Review Draft
 *  [2021-07-15](summaries/PING-minutes-20210715): privacy review of media capture stream, performance timeline and user timing
