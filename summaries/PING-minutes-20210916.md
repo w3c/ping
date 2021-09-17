@@ -1,6 +1,6 @@
 # Privacy Interest Group meeting (16 September 2021)
 
-## Attendees (sign yourself in)
+## Attendees 
 
 * Christine Runnegar (PING co-chair)
 * Wendy Seltzer (W3C)
