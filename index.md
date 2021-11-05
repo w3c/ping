@@ -9,6 +9,9 @@ layout: home
 
 The Privacy Interest Group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development, including privacy considerations in specifications.
 
+## Requesting PING reviews
+
+See [The Guide: How to get horizontal review](https://www.w3.org/Guide/documentreview/#how_to_get_horizontal_review).
 
 ## Joining PING
 
@@ -53,6 +56,7 @@ PING occasionally uses IRC on the [#privacy](http://irc.w3.org/?channels=privacy
 
 ## Ongoing work
 
+* [Instructions for requesting reviews](https://www.w3.org/Guide/documentreview/#how_to_get_horizontal_review)
 * Privacy reviews are [tracked in Github](https://github.com/w3cping/tracking-issues/issues) and visible through [this dashboard](https://w3c.github.io/horizontal-issue-tracker/?repo=w3cping/tracking-issues)
 * [PING administrative issues](https://github.com/w3cping/administrivia/issues) are tracked in the [https://github.com/w3cping/administrivia](https://github.com/w3cping/administrivia) Github repository
 * [Fingerprinting Guidance](https://w3c.github.io/fingerprinting-guidance/): maintained in the [https://github.com/w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) repository
