@@ -11,7 +11,7 @@ The Privacy Interest Group monitors ongoing privacy issues that affect the Web, 
 
 ## Requesting PING reviews
 
-See [The Guide](https://www.w3.org/Guide/documentreview/#how_to_get_horizontal_review).
+See [The Guide: How to get horizontal review](https://www.w3.org/Guide/documentreview/#how_to_get_horizontal_review).
 
 ## Joining PING
 
