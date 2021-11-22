@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2021-11-18](summaries/PING-minutes-20211118): privacy review of Incremental Font Transfer
 *  [2021-11-04](summaries/PING-minutes-20211104): privacy discussions at TPAC
 *  [2021-10-21](summaries/PING-minutes-20211021): privacy review of Secure Payment Confirmation and CSS Cascading and Inheritance Levels 4 and 5
 *  [2021-10-07](summaries/PING-minutes-20211007): privacy review of CSS Display 3 and initial discussion of Secure Payment Confirmation
