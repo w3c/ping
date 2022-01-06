@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-01-06](summaries/PING-minutes-20220106): privacy review of IMSC-HRM, issue triage
 *  [2021-11-18](summaries/PING-minutes-20211118): privacy review of Incremental Font Transfer
 *  [2021-11-04](summaries/PING-minutes-20211104): privacy discussions at TPAC
 *  [2021-10-21](summaries/PING-minutes-20211021): privacy review of Secure Payment Confirmation and CSS Cascading and Inheritance Levels 4 and 5
@@ -140,5 +141,4 @@ layout: home
 *   [2012-04-19](http://www.w3.org/2012/04/19-privacy-minutes.html) | [summary](http://lists.w3.org/Archives/Public/public-privacy/2012AprJun/0065.html)
 
   
-  
-This page is maintained in Github at [https://github.com/w3c/ping/blob/master/meetings.html](https://github.com/w3c/ping/blob/master/meetings.html).
+ [This page is maintained in Github](https://github.com/w3c/ping/blob/main/meetings.md).
