@@ -38,6 +38,12 @@ Background: The WG has conducted a self-review of spec IMSC-HRM (ED), and the re
 - The other subtantiative point is that the spec is vague and has statements like "Implementers of this specification should capture and meet privacy and security requirements for their intended application." Some of that is unavoidable since this API may be implemented outside browsers. But we have worked with WGs in the past to have defined privacy functionality when being implemented inside browsers.
 - The third point is that the spec does not have an error model; how pages react to the error seems undefined. It would be nice to be have this be defined in the spec.
 
+- [added later by Pete Snyder] the following issues were filed as part of this review:
+  - [Typos, formatting, and clarity suggestions](https://github.com/w3c/imsc-hrm/issues/28)
+  - [Define the error model](https://github.com/w3c/imsc-hrm/issues/29)
+  - [Privacy and Security section over claims (I think origins can use this functionality to learn about the system)](https://github.com/w3c/imsc-hrm/issues/30)
+  - [Spec needs to define interaction with the web platform](https://github.com/w3c/imsc-hrm/issues/31)
+
 - Sam: This is an error in self-analysis [...]
 - Pete: Self-questionnaire [...]
 - Sam: How tricky was it to identify the issues.
