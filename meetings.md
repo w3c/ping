@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-02-17](summaries/PING-minutes-20220217): privacy review of CSS Variables, Ambient Light, how to conduct a PING privacy review, WHATWG specs
 *  [2022-01-20](summaries/PING-minutes-20220120): privacy review of CSS Conditional module 4, triage, documentation for reviewers
 *  [2022-01-06](summaries/PING-minutes-20220106): privacy review of IMSC-HRM, issue triage
 *  [2021-11-18](summaries/PING-minutes-20211118): privacy review of Incremental Font Transfer
