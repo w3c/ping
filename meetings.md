@@ -6,8 +6,9 @@ layout: home
 
 #### Past meetings
 
-* [2022-05-05](summaries/PING-minutes-20220505): EPUB, Web of Things, Web Payments
-* [2022-04-07](summaries/PING-minutes-20220407): patcg, WebXR and charter reviews
+*  [2022-05-19](summaries/PING-minutes-20220519): Web of Things privacy review
+*  [2022-05-05](summaries/PING-minutes-20220505): EPUB, Web of Things, Web Payments
+*  [2022-04-07](summaries/PING-minutes-20220407): patcg, WebXR and charter reviews
 *  [2022-02-17](summaries/PING-minutes-20220217): privacy review of CSS Variables, Ambient Light, how to conduct a PING privacy review, WHATWG specs
 *  [2022-01-20](summaries/PING-minutes-20220120): privacy review of CSS Conditional module 4, triage, documentation for reviewers
 *  [2022-01-06](summaries/PING-minutes-20220106): privacy review of IMSC-HRM, issue triage
