@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-06-02](summaries/PING-minutes-20220602): WebXR Gamepads and Device
 *  [2022-05-19](summaries/PING-minutes-20220519): Web of Things privacy review
 *  [2022-05-05](summaries/PING-minutes-20220505): EPUB, Web of Things, Web Payments
 *  [2022-04-07](summaries/PING-minutes-20220407): patcg, WebXR and charter reviews
