@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-07-21](summaries/PING-minutes-20220721): privacy review of DCAT 3, Baggage and Web Neural Network API
 *  [2022-06-16](summaries/PING-minutes-20220616): WebXR AR, WebGPU, TPAC
 *  [2022-06-02](summaries/PING-minutes-20220602): WebXR Gamepads and Device
 *  [2022-05-19](summaries/PING-minutes-20220519): Web of Things privacy review
