@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-08-04](summaries/PING-minutes-20220804): privacy review of CSS Color 5, MiniApp Lifecycle and Manifest, Web Neural Network API
 *  [2022-07-21](summaries/PING-minutes-20220721): privacy review of DCAT 3, Baggage and Web Neural Network API
 *  [2022-06-16](summaries/PING-minutes-20220616): WebXR AR, WebGPU, TPAC
 *  [2022-06-02](summaries/PING-minutes-20220602): WebXR Gamepads and Device
