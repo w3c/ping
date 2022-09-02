@@ -15,7 +15,7 @@ See [The Guide: How to get horizontal review](https://www.w3.org/Guide/documentr
 
 ## Joining PING
 
-Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](http://www.w3.org/2004/08/invexp).  Please also join our [Slack](https://w3cping.slack.com/) -- email one of the W3C team (weiler or wseltzer) to request an invitation.
+Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](https://www.w3.org/groups/ig/privacy/apply-as-invited-expert).  Please also join our [Slack](https://w3cping.slack.com/) -- email one of the W3C team (weiler or wseltzer) to request an invitation.
 
 ## Meeting Information
 
