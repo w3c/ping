@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2022-11-03](summaries/PING-minutes-20221201): Vehicles / VISS; Core-AAM; multi-screen window placement; year-end
 *  [2022-11-03](summaries/PING-minutes-20221103): privacy reviews of CSS Values and Units Level 4; Trace Context
 *  [2022-09-12](summaries/PING-minutes-20220912): PING at TPAC
 *  [2022-09-01](summaries/PING-minutes-20220901): privacy reviews of Core-AAM, WCAG, Mini-App Packaging; review updates; TPAC
