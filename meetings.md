@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2023-02-16](summaries/PING-minutes-20230216): privacy reviews of CSS View Transitions, Autoplay Policy Detection, PNG 3rd edition; report out on PATCG meeting
 *  [2023-01-19](summaries/PING-minutes-20230119): Vehicles / VISS; UI Events
 *  [2022-12-01](summaries/PING-minutes-20221201): Vehicles / VISS; Core-AAM; multi-screen window placement; year-end
 *  [2022-11-03](summaries/PING-minutes-20221103): privacy reviews of CSS Values and Units Level 4; Trace Context
