@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+*  [2023-04-06](summaries/PING-minutes-20230406): Secure Payments Confirmation
 *  [2023-03-16](summaries/PING-minutes-20230316): Compute Pressure, EPUB, Web of Things
 *  [2023-02-16](summaries/PING-minutes-20230216): privacy reviews of CSS View Transitions, Autoplay Policy Detection, PNG 3rd edition; report out on PATCG meeting
 *  [2023-01-19](summaries/PING-minutes-20230119): Vehicles / VISS; UI Events
