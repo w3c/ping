@@ -6,7 +6,11 @@ layout: home
 
 #### Past meetings
 
+<<<<<<< HEAD
 *  [2023-05-04](summaries/PING-minutes-20230504): PING at TPAC, Charter discussion, Scalable Video Coding (SVC) Extension for WebRTC, Horizontal reviews of Charters
+=======
+*  [2023-05-04](summaries/PING-minutes-20230504): Secure Payments Confirmation
+>>>>>>> a935cc0362e8a62da37cf8c20716c5651bc28586
 *  [2023-04-06](summaries/PING-minutes-20230406): Secure Payments Confirmation
 *  [2023-03-16](summaries/PING-minutes-20230316): Compute Pressure, EPUB, Web of Things
 *  [2023-02-16](summaries/PING-minutes-20230216): privacy reviews of CSS View Transitions, Autoplay Policy Detection, PNG 3rd edition; report out on PATCG meeting
