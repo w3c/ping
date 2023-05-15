@@ -25,7 +25,7 @@ Use the links in the sidebar.  If you're new to W3C, first [create a W3C account
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using Zoom for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
-Zoom nstructions are restricted to meeting participants. You need to [log in](https://auth.w3.org/?url=https%3A%2F%2Fwww.w3.org%2Fgroups%2Fig%2Fprivacy%2Fcalendar%2F) to see them.<br>
+Zoom instructions are restricted to meeting participants. You need to [log in](https://auth.w3.org/?url=https%3A%2F%2Fwww.w3.org%2Fgroups%2Fig%2Fprivacy%2Fcalendar%2F) to see them.<br>
 
 
 
