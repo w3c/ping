@@ -23,24 +23,11 @@ Use the links in the sidebar.  If you're new to W3C, first [create a W3C account
 * For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3cping.slack.com/)
 * [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
-* We are using [Zoom](https://mit.zoom.us/j/823321737?pwd=cUs5QlVNVXJvZmFnanZjdmJEQWI4Zz09) for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
+* We are using Zoom for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
-One tap mobile<br>
-+16465588656,,823321737# US (New York)<br>
-+16699006833,,823321737# US (San Jose)<br>
-<br>
-PSTN numbers:<br>
-        +1 669 900 6833 US (San Jose)<br>
-        +1 646 558 8656 US (New York)<br>
-Meeting ID: 823 321 737<br>
-Password: 087472 or 'privacy'<br>
-Find your local number: https://zoom.us/u/acFNApXL9t<br>
-<br>
-Join by SIP<br>
-823321737@zoomcrc.com<br>
+Zoom nstructions are restricted to meeting participants. You need to [log in](https://auth.w3.org/?url=https%3A%2F%2Fwww.w3.org%2Fgroups%2Fig%2Fprivacy%2Fcalendar%2F) to see them.<br>
 
-Join by Skype for Business<br>
-https://mit.zoom.us/skype/823321737<br>
+
 
 ## [Minutes of Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
 
