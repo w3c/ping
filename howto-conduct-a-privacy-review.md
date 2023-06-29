@@ -119,7 +119,7 @@ as needed with the aim of resolving any outstanding issues.
 If a reviewer is unable to resolve an issue with the working group
 and the issue may lead to a formal objection, the reviewer
 is encouraged to bring the issue to the PING chairs, who can schedule discussion with PING on a call.
-PING can then explore other ways to try and resolve the concern without the formal objection.
+PING can then explore other ways to try and resolve the concern without the Formal Objection. PING can also  document the concern and positions of PING reviewers and the Working Group, to facilitate subsequent resolutions of any Formal Objection.
 
 ### <a id="finishing-a-review" />4. Documenting Your Review
 The final step in the review process is to present your findings to the
