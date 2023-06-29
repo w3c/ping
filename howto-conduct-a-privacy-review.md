@@ -113,8 +113,13 @@ of a privacy review, or might even file contradictory privacy issues if
 PING members disagree. Disagreement is rare. In the case that a PING privacy review results in 
 contradictory (or mutually exclusive) issues being filed, its the responsibility
 of the working group making the proposal (and, ultimately the director)
-to figure out how to proceed. However, the chairs will work with the working group and reviewer as needed with the aim of resolving any outstanding issues. 
+to figure out how to proceed. However, the chairs will work with the working group and reviewer
+as needed with the aim of resolving any outstanding issues.
 
+If a reviewer is unable to resolve an issue with the working group
+and the issue may lead to a formal objection, the reviewer
+is encouraged to bring the issue to the PING chairs, who can schedule discussion with PING on a call.
+PING can then explore other ways to try and resolve the concern without the Formal Objection. PING can also  document the concern and positions of PING reviewers and the Working Group, to facilitate subsequent resolutions of any Formal Objection.
 
 ### <a id="finishing-a-review" />4. Documenting Your Review
 The final step in the review process is to present your findings to the
