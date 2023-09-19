@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2023-09-12](summaries/PING-minutes-20230912) (TPAC 2023): Privacy Principles, Credentials, privacy reviews experience, charter
 * [2023-09-07](summaries/PING-minutes-20230907): Automotive and consent handling, TPAC planning, charters (PrivacyWG charter, and charter templates)
 * [2023-08-17](summaries/PING-minutes-20230817): Verifiable Credentials and credentials generally, TPAC planning
 *  [2023-07-06](summaries/PING-minutes-20230706): WebGPU fingerprinting, PING/PrivacyWG charter, charter reviews, self-review questionnaire publishing
