@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2023-12-07](summaries/PING-minutes-20231207): reviewing securing verifiable credentials, reviewing charters, Privacy Working Group charter
 * [2023-11-02](summaries/PING-minutes-20231102): TTML dubbing/audio review; charter and credentials updates
 * [2023-10-05](summaries/PING-minutes-20231005): WG charter, identity credentials, TPAC followups
 * [2023-09-12](summaries/PING-minutes-20230912) (TPAC 2023): Privacy Principles, Credentials, privacy reviews experience, charter
