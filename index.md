@@ -15,12 +15,12 @@ See [The Guide: How to get horizontal review](https://www.w3.org/Guide/documentr
 
 ## Joining PING
 
-Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](https://www.w3.org/groups/ig/privacy/apply-as-invited-expert).  Please also join our [Slack](https://w3c.slack.com/) -- email the W3C team (plh) to request an invitation.
+Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](https://www.w3.org/groups/ig/privacy/apply-as-invited-expert).  Please also join our [Slack](https://w3ccommunity.slack.com/) -- email the W3C team (plh) to request an invitation.
 
 ## Meeting Information
 
 * 1st and 3rd Thursdays (subject to change) at 9am PT, 12pm ET.
-* For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3c.slack.com/)
+* For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3ccommunity.slack.com/)
 * [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
 * We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using Zoom for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
