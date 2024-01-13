@@ -36,7 +36,7 @@ out to all PING members in the PING Slack workspace #privacyreviews to invite vo
 Sometimes, PING chairs may approach area experts directly or take on the review themselves. If you see a new review request for a spec
 you would like to review, please feel free to contact a PING chair and let them
 know. Most likely this will make their day and they'll happily assign the
-review to you. 
+review to you.
 
 Usually a proposal is reviewed by just one PING member, though occasionally
 two or more PING members may collaborate on a review. This is more common
@@ -91,7 +91,7 @@ A PING chair will work with you to add your review to a meeting agenda.
 Presenting a review on a call is an informal process. Most of the
 time members of the working group proposing the spec *are not* on the call. But, sometimes where it would be helpful for the reviewer and the relevant working group, editors and other members of the working group will be invited to provide an overview of the spec and to discuss its privacy considerations.
 
-The review discussion process starts with the reviewer(s) summarizing 
+The review discussion process starts with the reviewer(s) summarizing
 the proposed spec to the rest of PING. These summaries are generally high
 level, and not intended to describe specific method calls
 or implementation algorithms in detail. The goal is to provide the rest of PING with
@@ -103,31 +103,17 @@ Next, reviewers describe each privacy issue they identified during their
 review. These might be issues the reviewer is confident about, or concerns
 the reviewer was unsure about, and wanted to bring to PING's attention for
 further discussion and consideration. PING as a group will discuss each issue
-as needed.
-
-After discussion, the reviewer will retain, discard, or alter the privacy
-issues they've identified as the reviewer sees fit. **Note that issues
-from privacy reviews are filed as individuals, not collectively by PING
-as a group.** This means that individual PING members may disagree on the results
-of a privacy review, or might even file contradictory privacy issues if
-PING members disagree. Disagreement is rare. In the case that a PING privacy review results in 
-contradictory (or mutually exclusive) issues being filed, its the responsibility
-of the working group making the proposal (and, ultimately the director)
-to figure out how to proceed. However, the chairs will work with the working group and reviewer
-as needed with the aim of resolving any outstanding issues.
-
-If a reviewer is unable to resolve an issue with the working group
-and the issue may lead to a formal objection, the reviewer
-is encouraged to bring the issue to the PING chairs, who can schedule discussion with PING on a call.
-PING can then explore other ways to try and resolve the concern without the Formal Objection. PING can also  document the concern and positions of PING reviewers and the Working Group, to facilitate subsequent resolutions of any Formal Objection.
+as needed, in order to refine the description of each issue and identify whether
+there's rough consensus on whether each issue needs to be fixed before the
+specification advances through the W3C Process.
 
 ### <a id="finishing-a-review" />4. Documenting Your Review
 The final step in the review process is to present your findings to the
 working group that requested the review in the first place. This
 is done in several steps.
 
-1.  Create GitHub issues for each privacy issue you identified in the
-    proposal's repo.  (PING's
+1.  Create one GitHub issue for each privacy issue you or the group discussion
+    identified in the proposal's repo.  (PING's
     privacy-request repo keeps track of privacy review requests we receive, but
     the substance of those reviews (i.e., the issues that need to be addressed
     in the proposed spec) must be filed in the repo for the proposed spec.
@@ -135,16 +121,26 @@ is done in several steps.
     is an issue in PING's privacy-request repo, but issues resulting for the review
     should be filed in the [Secure Payment Confirmation repo](https://github.com/w3c/secure-payment-confirmation/issues).)
 
-    Create one issue in the working group's repo for each issue you
-    identified. We suggest starting each filed issue by noting i) that the issue
-    was the result of a PING privacy review, and ii) with a link back to
-    the privacy-requests issue requesting the privacy review. See, for example,
-    the first line of [this issue](https://github.com/w3c/imsc-hrm/issues/28).
-    
-    Each privacy issue you create should include the following:
-    
-    -   A brief and succinct description of the privacy issue you identified
-    -   If applicable, what resolution you think would be appropriate to solve / address
+    You're filing these issues on your own behalf, so you don't need to and
+    shouldn't try to speak for the PING as a whole. If you're not comfortable
+    representing an issue that came up in the discussion, ask someone else or
+    the PING chairs to file it. Rarely, individual PING members disagree on the
+    results of a privacy review and might even file contradictory privacy
+    issues. In that case, it's the responsibility of the working group to figure
+    out how to proceed, with help from the PING chairs.
+
+    In each privacy issue:
+
+    -   Write a succinct description of the privacy issue you identified.
+    -   Say that the issue came up as the result of a PING privacy review.
+    -   Link back to the [privacy-requests
+        issue](https://github.com/w3cping/privacy-request/issues) that requested
+        the privacy review, as
+        [w3c/imsc-hrm#28](https://github.com/w3c/imsc-hrm/issues/28) did. If the
+        relevant [meeting
+        minutes](https://github.com/w3c/ping/blob/main/summaries/) have been
+        posted, link to them too.
+    -   If applicable, say what resolution you think would be appropriate to solve / address
         the issue. It **is not** your responsibility to suggest a solution to the
         problem you identified (i.e., you don't need to provide a solution to the privacy
         vulnerability), though it can be helpful to say what criteria you would judge
@@ -160,7 +156,7 @@ is done in several steps.
         identified issue is critical, and that the proposal should not continue
         through the standardization process until the issue is addressed.  If you can't add the labels yourself,
         ask the PING chairs to add them.
-    
+
 2.  Once you've created an issue in the proposed spec's repo for each
     privacy concern you've identified, add a comment on the original
     privacy-requests issue summarizing your review. This summary can be just
@@ -179,18 +175,22 @@ required) to continue discussing the privacy issues you filed with the working
 group, as they try to understand, and then correct, the privacy issues you
 identified.
 
-Sometimes working groups will not agree with your issues, and thats okay.
-However though, working groups should never close an issue you filed
-until you agree that the issue has been satisfactorily resolved. If a working
-group does close an issue in a way or for a reason you don't agree with,
-please notify or involve a PING chair or team leader, who will gladly
-get involved to try and address the situation.
-
-Finally, if for whatever reason you are not able or interested in continuing
-the discussion around an issue you filed, please also notify a PING chair
+If for whatever reason you are not able or interested in continuing
+the discussion around an issue you filed, please notify a PING chair
 or team leader. We understand that obligations and availability change over time,
 and we'll be glad to work with you to transfer ownership of an issue to someone
 else.
+
+Sometimes working groups will not agree with your issues. If you're convinced
+that an issue shouldn't prevent the specification from advancing, you can close
+it. If you and the working group can't find consensus, you should bring the
+issue back to the PING chairs, who can schedule a discussion among more PING and
+working group members. If the issue remains unresolved, the working group might
+advance the specification to Proposed Recommendation anyway, and individual W3C
+Members can file Formal Objections at that point. Note that the PING itself
+doesn't formally object to specifications. If we've done our jobs right, the
+Formal Objection Council will be able to find the PING's concerns and positions
+documented to help them resolve the objection.
 
 
 ## Links And Resources
