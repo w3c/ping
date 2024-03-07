@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2024-03-07](summaries/PING-minutes-20240307): Device Orientation, Off-The-Record Header, unlinkable presentation of credentials, privacy principles
 * [2024-02-01](summaries/PING-minutes-20240201): BBS Cryptosuite, Bitstring Status List, automotive privacy and new privacy review requests
 * [2023-12-07](summaries/PING-minutes-20231207): reviewing securing verifiable credentials, reviewing charters, Privacy Working Group charter
 * [2023-11-02](summaries/PING-minutes-20231102): TTML dubbing/audio review; charter and credentials updates
