@@ -15,14 +15,13 @@ See [The Guide: How to get horizontal review](https://www.w3.org/Guide/documentr
 
 ## Joining PING
 
-Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](https://www.w3.org/groups/ig/privacy/apply-as-invited-expert).  Please also join the [W3C Community Slack](https://w3ccommunity.slack.com/) -- email the W3C team (plh) to request an invitation.
+Use the links in the sidebar.  If you're new to W3C, first [create a W3C account](http://cgi.w3.org/MemberAccess/AccessRequest).  Non-members of W3C may then join the IG as [public Invited Experts](https://www.w3.org/groups/ig/privacy/apply-as-invited-expert).  Please also join the #ping channel on the [W3C Community Slack](https://w3ccommunity.slack.com/) ([invite]( https://www.w3.org/slack-w3ccommunity-invite)).
 
 ## Meeting Information
 
-* 1st and 3rd Thursdays (subject to change) at 9am PT, 12pm ET.
-* For updates see the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3ccommunity.slack.com/)
+* Check out the [W3C Calendar](https://auth.w3.org/?url=https://www.w3.org/groups/ig/privacy/calendar)
+* For updates see also the [mailing list](https://lists.w3.org/Archives/Public/public-privacy/) or [Slack](https://w3ccommunity.slack.com/)
 * [Times in other regions](https://www.timeanddate.com/worldclock/converter.html)
-* We are using [Cryptpad](https://cryptpad.w3ctag.org/code/#/2/code/edit/4ht9YHtVS9AB4UBlh-oPvHej/) for minutes instead of IRC
 * We are using Zoom for the meeting, and some people may use video.  The Zoom client is not necessary: click on "click here to launch this meeting", wait for a moment, and click on "join from your browser".
 
 Zoom instructions are restricted to meeting participants. You need to [log in](https://auth.w3.org/?url=https%3A%2F%2Fwww.w3.org%2Fgroups%2Fig%2Fprivacy%2Fcalendar%2F) to see them.<br>
@@ -32,13 +31,6 @@ Zoom instructions are restricted to meeting participants. You need to [log in](h
 ## [Minutes of Past meetings](https://www.w3.org/Privacy/IG/meetings.html)
 
 [Minutes](https://www.w3.org/Privacy/IG/meetings.html)
-
-## IRC
-PING occasionally uses IRC on the [#privacy](http://irc.w3.org/?channels=privacy) channel:
-* Server: irc.w3.org
-* Username: &lt;your name&gt;
-* Port: 6667 or 6665
-* Channel: #privacy
 
 ## Documentation and Guidance
 * [How to conduct a privacy review of a proposal](https://github.com/w3c/ping/blob/main/howto-conduct-a-privacy-review.md)
