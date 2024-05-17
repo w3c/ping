@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2024-05-16](summaries/PING-minutes-20240516): Privacy Working Group status/delay, credentials, accessibility privacy, TPAC planning
 * [2024-04-04](summaries/PING-minutes-20240404): ARIA, MathML, Ethical Web Principles, credentials (charter, verifier lists)
 * [2024-03-07](summaries/PING-minutes-20240307): Device Orientation, Off-The-Record Header, unlinkable presentation of credentials, privacy principles
 * [2024-02-01](summaries/PING-minutes-20240201): BBS Cryptosuite, Bitstring Status List, automotive privacy and new privacy review requests
