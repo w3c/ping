@@ -6,7 +6,7 @@ layout: home
 
 #### Past meetings
 
-* [2024-07-18](summaries/PING-minutes-20240718.md): Vibration, Device Posture, WCAG, Verifiable Credentials Controller Documents
+* [2024-07-18](summaries/PING-minutes-20240718): Vibration, Device Posture, WCAG, Verifiable Credentials Controller Documents
 * [2024-06-06](summaries/PING-minutes-20240606): Federated Identity/credentials, HTML Ruby markup, assigning privacy reviews
 * [2024-05-16](summaries/PING-minutes-20240516): Privacy Working Group status/delay, credentials, accessibility privacy, TPAC planning
 * [2024-04-04](summaries/PING-minutes-20240404): ARIA, MathML, Ethical Web Principles, credentials (charter, verifier lists)
