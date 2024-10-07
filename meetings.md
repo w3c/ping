@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [2024-09-23](summaries/PING-minutes-20240923): (TPAC 2024): Charter Updates, Guidance Documents, Conducting a privacy review, Global Privacy Control update, Credentials: user/privacy considerations
 * [2024-09-05](summaries/PING-minutes-20240905): Privacy reviews of Incremental Font Transfer, Controller Documents, Pointer Events; planning for TPAC; registries for credentials 
 * [2024-07-18](summaries/PING-minutes-20240718): Vibration, Device Posture, WCAG, Verifiable Credentials Controller Documents
 * [2024-06-06](summaries/PING-minutes-20240606): Federated Identity/credentials, HTML Ruby markup, assigning privacy reviews
