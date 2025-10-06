@@ -32,7 +32,7 @@ in PING's [privacy-request repo on GitHub](https://github.com/w3cping/privacy-re
 New requests will appear as [open issues](https://github.com/w3cping/privacy-request/issues).
 
 When PING receives a new request, the PING chairs will usually send a message
-out to all PING members in the PING Slack workspace #privacyreviews to invite volunteers to perform the review.
+out to all PING members in the PING Slack workspace #privacy-reviews to invite volunteers to perform the review.
 Sometimes, PING chairs may approach area experts directly or take on the review themselves. If you see a new review request for a spec
 you would like to review, please feel free to contact a PING chair and let them
 know. Most likely this will make their day and they'll happily assign the
