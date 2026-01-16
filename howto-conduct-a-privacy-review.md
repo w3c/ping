@@ -131,7 +131,7 @@ is done in several steps.
     privacy-request repo keeps track of privacy review requests we receive, but
     the substance of those reviews (i.e., the issues that need to be addressed
     in the proposed spec) must be filed in the repo for the proposed spec.
-    For example, [privacy request #56]([Review #56](https://github.com/w3cping/privacy-request/issues/56)
+    For example, [privacy request #56](https://github.com/w3cping/privacy-request/issues/56)
     is an issue in PING's privacy-request repo, but issues resulting for the review
     should be filed in the [Secure Payment Confirmation repo](https://github.com/w3c/secure-payment-confirmation/issues).)
 
